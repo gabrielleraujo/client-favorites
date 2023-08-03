@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Newme.ClientFavorites.Domain\Newme.ClientFavorites.Domain.csproj" />
-    <ProjectReference Include="..\Newme.ClientFavorites.Infrastructure\Newme.ClientFavorites.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
