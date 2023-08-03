@@ -1,4 +1,4 @@
-# client-favorites
+# newme-client-favorites
 
 #### Rabbitmq
 - To enable rabbitmq run the command below on terminal.
